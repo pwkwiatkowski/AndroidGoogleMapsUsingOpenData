@@ -29,5 +29,5 @@ Screeny z działania aplikacji:
 ![screen1](/img/Screenshot_20210601-130818.png)
 
 ## Autorzy
-Patryk Kwiatkowski 
+Patryk Kwiatkowski  
 Inga Nowak
