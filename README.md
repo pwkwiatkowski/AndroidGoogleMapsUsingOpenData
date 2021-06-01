@@ -23,14 +23,10 @@ Naniesienie punktów na mapę
 ![screen1](/img/Screenshot_4.png)  
 
 Screeny z działania aplikacji:
-<img src="https://github.com/pwkwiatkowski/AndroidGoogleMapsUsingOpenData/blob/master/img/Screenshot_20210601-130724.png" width="50%">
-<img src="https://github.com/pwkwiatkowski/AndroidGoogleMapsUsingOpenData/blob/master/img/Screenshot_20210601-130743.png" width="50%">
-<img src="https://github.com/pwkwiatkowski/AndroidGoogleMapsUsingOpenData/blob/master/img/Screenshot_20210601-130803.png" width="50%">
-<img src="https://github.com/pwkwiatkowski/AndroidGoogleMapsUsingOpenData/blob/master/img/Screenshot_20210601-130818.png" width="50%">
-
-![screen1](/img/Screenshot_20210601-130743.png)  
-![screen1](/img/Screenshot_20210601-130803.png)  
-![screen1](/img/Screenshot_20210601-130818.png)  
+<img src="https://github.com/pwkwiatkowski/AndroidGoogleMapsUsingOpenData/blob/master/img/Screenshot_20210601-130724.png" width="50%">  
+<img src="https://github.com/pwkwiatkowski/AndroidGoogleMapsUsingOpenData/blob/master/img/Screenshot_20210601-130743.png" width="50%">  
+<img src="https://github.com/pwkwiatkowski/AndroidGoogleMapsUsingOpenData/blob/master/img/Screenshot_20210601-130803.png" width="50%">  
+<img src="https://github.com/pwkwiatkowski/AndroidGoogleMapsUsingOpenData/blob/master/img/Screenshot_20210601-130818.png" width="50%">  
 
 ## Autorzy
 Patryk Kwiatkowski  
