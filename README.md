@@ -1,5 +1,5 @@
 # AndroidGoogleMapsUsingOpenData
-> Projekt na zaliczenie przedmiotu Przetwarzanie danych w chmurze obliczeniowej.
+> Projekt na zaliczenie przedmiotu *Przetwarzanie danych w chmurze obliczeniowej*.
 
 ## Spis treści
 * [Ogólne informacje](#ogólne-informacje)
