@@ -3,7 +3,7 @@
 
 ## Spis treści
 * [Ogólne informacje](#ogólne-informacje)
-* [Technologies](#działanie-aplikacji)
+* [Działanie aplikacji](#działanie-aplikacji)
 * [Autorzy](#autorzy)
 
 ## Ogólne informacje
