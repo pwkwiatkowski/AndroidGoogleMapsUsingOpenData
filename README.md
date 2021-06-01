@@ -23,7 +23,7 @@ Naniesienie punktów na mapę
 ![screen1](/img/Screenshot_4.png)  
 
 Screeny z działania aplikacji:
-![screen1](https://github.com/pwkwiatkowski/AndroidGoogleMapsUsingOpenData/blob/master/img/Screenshot_1.png | width="100")  
+![screen1](https://github.com/pwkwiatkowski/AndroidGoogleMapsUsingOpenData/blob/master/img/Screenshot_1.png | width=100)  
 ![screen1](/img/Screenshot_20210601-130743.png)  
 ![screen1](/img/Screenshot_20210601-130803.png)  
 ![screen1](/img/Screenshot_20210601-130818.png)  
