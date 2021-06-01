@@ -2,10 +2,9 @@
 > Projekt na zaliczenie przedmiotu Przetwarzanie danych w chmurze obliczeniowej.
 
 ## Spis treści
-* [Ogólne informacje](#general-info)
-* [Technologies](#technologies)
-* [Status](#status)
-* [Inspiration](#inspiration)
+* [Ogólne informacje](#ogólne-informacje)
+* [Technologies](#działanie-aplikacji)
+* [Autorzy](#autorzy)
 
 ## Ogólne informacje
 Jest to aplikacja wykonan w Android Studio, w języku Java. Projekt łączy w sobie dwa zagadnienia przedstawione na zajęciach:
@@ -17,15 +16,18 @@ Aplikacja łączy się z zewnętrzym API wystawionym przez miasto Gdańsk, któr
 Aplikacja pobiera informacje na temat pojazdów, a następnie umieszcza na mapie google pozycję i opis wszyskich pojazdów, które są opóźnione więcej niż 3 minuty. 
 Kod odpowiedzialny za połączenie z API i odczytanie danych
 ![screen1](/img/Screenshot_1.png)
-//obrazek
+![screen2](/img/Screenshot_2.png)
 Zapisanie danych w aplikacji
-//obrazek
+![screen3](/img/Screenshot_3.png)
 Naniesienie punktów na mapę
-//obrazek
+![screen1](/img/Screenshot_4.png)
 
+Screeny z działania aplikacji:
+![screen1](/img/Screenshot_20210601-130724.png)
+![screen1](/img/Screenshot_20210601-130743.png)
+![screen1](/img/Screenshot_20210601-130803.png)
+![screen1](/img/Screenshot_20210601-130818.png)
 
-## Status
-Project is: _finished_ because I sent it to my lecturer ;-)
-
-## Source
-This project is from my lecturer, Mr Radomski.
+## Autorzy
+Patryk Kwiatkowski 
+Inga Nowak
