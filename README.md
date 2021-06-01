@@ -7,7 +7,7 @@
 * [Autorzy](#autorzy)
 
 ## Ogólne informacje
-Jest to aplikacja wykonan w Android Studio, w języku Java. Projekt łączy w sobie dwa zagadnienia przedstawione na zajęciach:
+Jest to aplikacja wykonana w Android Studio, w języku Java. Projekt łączy w sobie dwa zagadnienia przedstawione na zajęciach:
 - obsługa zewnętrznego API
 - Google Maps API
 
