@@ -21,7 +21,7 @@ Zapisanie danych w aplikacji
 ![screen3](/img/Screenshot_3.png)  
 Naniesienie punktów na mapę
 ![screen1](/img/Screenshot_4.png)  
-
+  
 Screeny z działania aplikacji:
 <img src="https://github.com/pwkwiatkowski/AndroidGoogleMapsUsingOpenData/blob/master/img/Screenshot_20210601-130724.png" width="50%">  
 <img src="https://github.com/pwkwiatkowski/AndroidGoogleMapsUsingOpenData/blob/master/img/Screenshot_20210601-130743.png" width="50%">  
