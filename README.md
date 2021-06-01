@@ -15,7 +15,13 @@ Jest to aplikacja wykonan w Android Studio, w języku Java. Projekt łączy w so
 ## Działanie aplikacji
 Aplikacja łączy się z zewnętrzym API wystawionym przez miasto Gdańsk, które to API jest dostępne w ramach „Otwarte dane ZTM w Gdańsku”. 
 Aplikacja pobiera informacje na temat pojazdów, a następnie umieszcza na mapie google pozycję i opis wszyskich pojazdów, które są opóźnione więcej niż 3 minuty. 
-Kod odpowiedzialny za połączenie z API
+Kod odpowiedzialny za połączenie z API i odczytanie danych
+![screen1](/img/Screenshot_1.png.png)
+//obrazek
+Zapisanie danych w aplikacji
+//obrazek
+Naniesienie punktów na mapę
+//obrazek
 
 
 ## Status
